@@ -1,9 +1,8 @@
 Pass
 ====
 
-A short python script to return a strong 4 word password
+A short python script to return a strong 4 word password.
 
-On command line output will be:
-$ python Pass.py
-beadcostsledoval
-$
+The script uses a text file of common nouns and concatenates four random words into a password.
+
+
